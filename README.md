@@ -1,3 +1,3 @@
-C# .Net
-Spiel: Schach
-Ausschließlich im Multiplayer spielbar
+C# .Net  
+Spiel: Schach  
+Ausschließlich im Multiplayer spielbar 
