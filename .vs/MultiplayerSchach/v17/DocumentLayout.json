@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|c:\\users\\alexa\\desktop\\programmieren\\arbeitsbereich\\multiplayerschach\\multiplayerschach\\gamelobby.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\gamelobby.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|c:\\users\\alexa\\desktop\\programmieren\\arbeitsbereich\\multiplayerschach\\multiplayerschach\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|c:\\users\\alexa\\desktop\\programmieren\\arbeitsbereich\\multiplayerschach\\multiplayerschach\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\multiplayerschach\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|c:\\users\\alexa\\desktop\\programmieren\\arbeitsbereich\\multiplayerschach\\multiplayerschach\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\multiplayerschach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\multiplayerschach\\guisettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{7762FF04-59A5-4877-9C01-88F1BC2AC893}|MultiplayerSchach\\MultiplayerSchach.csproj|solutionrelative:multiplayerschach\\guisettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLobby.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GameLobby.Designer.cs",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\GameLobby.Designer.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GameLobby.Designer.cs",
+              "RelativeToolTip": "MultiplayerSchach\\GameLobby.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:13:10.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameLobby.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GameLobby.cs",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\GameLobby.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GameLobby.cs",
+              "RelativeToolTip": "MultiplayerSchach\\GameLobby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:12:58.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameLobby.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GameLobby.cs",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\GameLobby.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GameLobby.cs [Design]",
+              "RelativeToolTip": "MultiplayerSchach\\GameLobby.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:09:16.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\Program.cs",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\Program.cs",
+              "RelativeToolTip": "MultiplayerSchach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:19:56.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuiSettings.settings",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GuiSettings.settings",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\GuiSettings.settings",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\GuiSettings.settings",
+              "RelativeToolTip": "MultiplayerSchach\\GuiSettings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-03-02T23:11:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\MainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\MainMenu.Designer.cs",
+              "RelativeToolTip": "MultiplayerSchach\\MainMenu.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:09:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MultiplayerSchach\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programmieren\\Arbeitsbereich\\MultiplayerSchach\\MultiplayerSchach\\MainMenu.cs",
+              "RelativeToolTip": "MultiplayerSchach\\MainMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:09:35.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
